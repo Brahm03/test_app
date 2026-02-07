@@ -1,3 +1,3 @@
 # github_test_app
 
-A new Flutter project.
+<h1>Github test app</h1>
